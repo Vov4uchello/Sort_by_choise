@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Sort_by_choise.cpp
+c:\users\роман\source\repos\sort_by_choise\sort_by_choise\sort_by_choise.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sort_by_choise.vcxproj -> C:\Users\Роман\source\repos\Sort_by_choise\Debug\Sort_by_choise.exe
